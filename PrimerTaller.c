@@ -1,4 +1,3 @@
-# C-Users-ALUMNOS-Documents-EDD02-2025-1
 #include <stdio.h>
 
 //  Llenamos un array con 10 numeros positivo
